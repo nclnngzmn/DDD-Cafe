@@ -1,0 +1,37 @@
+C:\Users\User\source\repos\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe.config
+C:\Users\User\source\repos\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe
+C:\Users\User\source\repos\New UI_draft\New UI_draft\bin\Debug\New UI_draft.pdb
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csprojAssemblyReference.cache
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.Properties.Resources.resources
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.GenerateResource.cache
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.exe
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.pdb
+C:\Users\User\source\repos\New UI_draft\New UI_draft\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CopyComplete
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.CASHIERLOGIN.resources
+C:\Users\User\source\repos\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.MAINFORM.resources
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe.config
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\bin\Debug\New UI_draft.pdb
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csprojAssemblyReference.cache
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.CASHIERLOGIN.resources
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.MAINFORM.resources
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.Properties.Resources.resources
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.GenerateResource.cache
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CoreCompileInputs.cache
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CopyComplete
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.exe
+C:\Users\kat garcia\Downloads\NICOLE\111111111\(BETTER VERSION!!!!!!!!) New UI_draft\New UI_draft\New UI_draft\obj\Debug\New UI_draft.pdb
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe.config
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\bin\Debug\New UI_draft.exe
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\bin\Debug\New UI_draft.pdb
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csprojAssemblyReference.cache
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.CASHIERLOGIN.resources
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.MAINFORM.resources
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New_UI_draft.Properties.Resources.resources
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.GenerateResource.cache
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CoreCompileInputs.cache
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.csproj.CopyComplete
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.exe
+C:\Users\kat garcia\Downloads\NICOLE\DDDCAFE_CASESTUDY\New UI_draft\New UI_draft\obj\Debug\New UI_draft.pdb
